@@ -1,0 +1,891 @@
+data,campanha,canal,impressoes,cliques,gasto,conversoes,receita
+2026-06-01,Black Friday - Roupas,Meta Ads,7770,224,290.14,14,3376.09
+2026-06-01,Black Friday - Roupas,Google Ads,6765,65,62.19,4,969.2
+2026-06-01,Institucional - Marca,Meta Ads,8822,49,167.52,3,411.99
+2026-06-01,Institucional - Marca,Google Ads,5811,202,498.37,10,819.08
+2026-06-01,Remarketing - Carrinho Abandonado,Meta Ads,11596,159,389.87,3,476.64
+2026-06-01,Remarketing - Carrinho Abandonado,Google Ads,9667,115,120.13,6,1099.59
+2026-06-01,Lançamento - Coleção Verão,Meta Ads,1767,40,37.02,2,252.08
+2026-06-01,Lançamento - Coleção Verão,Google Ads,5893,197,671.22,13,2109.19
+2026-06-01,Promoção - Frete Grátis,Meta Ads,3112,37,53.68,2,489.4
+2026-06-01,Promoção - Frete Grátis,Google Ads,1275,7,22.79,0,0.0
+2026-06-02,Black Friday - Roupas,Meta Ads,3573,63,85.77,3,265.36
+2026-06-02,Black Friday - Roupas,Google Ads,7373,136,253.9,10,2763.63
+2026-06-02,Institucional - Marca,Meta Ads,12034,92,122.28,1,167.84
+2026-06-02,Institucional - Marca,Google Ads,7363,201,453.69,10,3406.19
+2026-06-02,Remarketing - Carrinho Abandonado,Meta Ads,6831,145,171.17,9,901.16
+2026-06-02,Remarketing - Carrinho Abandonado,Google Ads,8506,150,279.93,4,335.21
+2026-06-02,Lançamento - Coleção Verão,Meta Ads,6118,160,442.93,10,999.92
+2026-06-02,Lançamento - Coleção Verão,Google Ads,10970,269,879.74,18,3624.33
+2026-06-02,Promoção - Frete Grátis,Meta Ads,3604,24,39.35,0,0.0
+2026-06-02,Promoção - Frete Grátis,Google Ads,14683,194,449.18,7,2396.54
+2026-06-03,Black Friday - Roupas,Meta Ads,11382,316,731.68,20,4266.5
+2026-06-03,Black Friday - Roupas,Google Ads,4988,131,144.02,5,672.32
+2026-06-03,Institucional - Marca,Meta Ads,1363,32,52.76,1,325.04
+2026-06-03,Institucional - Marca,Google Ads,8074,186,419.91,4,1338.28
+2026-06-03,Remarketing - Carrinho Abandonado,Meta Ads,10414,269,854.68,14,2237.5
+2026-06-03,Remarketing - Carrinho Abandonado,Google Ads,11752,366,1086.99,8,2567.93
+2026-06-03,Lançamento - Coleção Verão,Meta Ads,5950,87,98.28,3,974.53
+2026-06-03,Lançamento - Coleção Verão,Google Ads,14196,168,328.14,11,3436.37
+2026-06-03,Promoção - Frete Grátis,Meta Ads,8026,79,177.12,3,800.87
+2026-06-03,Promoção - Frete Grátis,Google Ads,14045,212,709.32,6,1320.44
+2026-06-04,Black Friday - Roupas,Meta Ads,3804,65,63.39,1,146.66
+2026-06-04,Black Friday - Roupas,Google Ads,12149,320,383.95,25,3800.77
+2026-06-04,Institucional - Marca,Meta Ads,12789,256,240.38,7,2276.62
+2026-06-04,Institucional - Marca,Google Ads,12166,309,690.16,12,2751.37
+2026-06-04,Remarketing - Carrinho Abandonado,Meta Ads,5431,40,71.92,1,296.85
+2026-06-04,Remarketing - Carrinho Abandonado,Google Ads,8504,203,509.64,9,939.4
+2026-06-04,Lançamento - Coleção Verão,Meta Ads,9300,88,191.15,5,1558.78
+2026-06-04,Lançamento - Coleção Verão,Google Ads,3311,83,70.12,3,423.46
+2026-06-04,Promoção - Frete Grátis,Meta Ads,3411,26,86.82,0,0.0
+2026-06-04,Promoção - Frete Grátis,Google Ads,11611,105,180.69,1,329.67
+2026-06-05,Black Friday - Roupas,Meta Ads,4561,118,167.22,2,690.37
+2026-06-05,Black Friday - Roupas,Google Ads,12335,158,551.4,12,2768.87
+2026-06-05,Institucional - Marca,Meta Ads,13971,335,574.65,11,3036.09
+2026-06-05,Institucional - Marca,Google Ads,1654,50,94.61,3,929.25
+2026-06-05,Remarketing - Carrinho Abandonado,Meta Ads,2148,21,67.75,1,82.48
+2026-06-05,Remarketing - Carrinho Abandonado,Google Ads,3057,101,346.32,3,487.34
+2026-06-05,Lançamento - Coleção Verão,Meta Ads,12469,321,821.85,8,2178.31
+2026-06-05,Lançamento - Coleção Verão,Google Ads,7444,147,188.57,5,1404.63
+2026-06-05,Promoção - Frete Grátis,Meta Ads,1718,42,98.05,0,0.0
+2026-06-05,Promoção - Frete Grátis,Google Ads,3946,49,117.24,3,634.26
+2026-06-06,Black Friday - Roupas,Meta Ads,6395,153,450.74,6,1414.58
+2026-06-06,Black Friday - Roupas,Google Ads,9651,298,423.61,13,3047.73
+2026-06-06,Institucional - Marca,Meta Ads,14003,341,435.87,25,8439.02
+2026-06-06,Institucional - Marca,Google Ads,3944,124,349.54,9,1523.72
+2026-06-06,Remarketing - Carrinho Abandonado,Meta Ads,801,27,91.85,1,159.5
+2026-06-06,Remarketing - Carrinho Abandonado,Google Ads,1480,15,22.87,0,0.0
+2026-06-06,Lançamento - Coleção Verão,Meta Ads,6354,192,635.72,2,272.82
+2026-06-06,Lançamento - Coleção Verão,Google Ads,4514,156,183.8,7,2218.24
+2026-06-06,Promoção - Frete Grátis,Meta Ads,1284,39,45.59,2,458.52
+2026-06-06,Promoção - Frete Grátis,Google Ads,6301,184,549.66,13,4245.47
+2026-06-07,Black Friday - Roupas,Meta Ads,6125,31,77.35,0,0.0
+2026-06-07,Black Friday - Roupas,Google Ads,8673,250,800.75,8,1451.26
+2026-06-07,Institucional - Marca,Meta Ads,13621,247,645.77,8,974.89
+2026-06-07,Institucional - Marca,Google Ads,11953,162,388.03,1,90.08
+2026-06-07,Remarketing - Carrinho Abandonado,Meta Ads,13625,192,432.02,6,1821.15
+2026-06-07,Remarketing - Carrinho Abandonado,Google Ads,6191,71,176.21,1,93.95
+2026-06-07,Lançamento - Coleção Verão,Meta Ads,7527,130,349.53,2,231.68
+2026-06-07,Lançamento - Coleção Verão,Google Ads,4965,101,168.87,6,918.75
+2026-06-07,Promoção - Frete Grátis,Meta Ads,12367,337,497.86,7,712.85
+2026-06-07,Promoção - Frete Grátis,Google Ads,1650,42,79.98,0,0.0
+2026-06-08,Black Friday - Roupas,Meta Ads,11541,140,147.48,3,997.04
+2026-06-08,Black Friday - Roupas,Google Ads,13684,460,1284.47,22,5393.62
+2026-06-08,Institucional - Marca,Meta Ads,10986,70,162.98,1,112.44
+2026-06-08,Institucional - Marca,Google Ads,12048,102,94.27,1,310.97
+2026-06-08,Remarketing - Carrinho Abandonado,Meta Ads,11751,120,101.56,7,2085.07
+2026-06-08,Remarketing - Carrinho Abandonado,Google Ads,10327,105,207.0,3,738.84
+2026-06-08,Lançamento - Coleção Verão,Meta Ads,3349,42,35.34,3,645.84
+2026-06-08,Lançamento - Coleção Verão,Google Ads,9707,240,297.58,3,760.36
+2026-06-08,Promoção - Frete Grátis,Meta Ads,13284,412,1037.54,27,7096.56
+2026-06-08,Promoção - Frete Grátis,Google Ads,12438,302,615.26,14,4678.74
+2026-06-09,Black Friday - Roupas,Meta Ads,8502,251,642.31,6,923.82
+2026-06-09,Black Friday - Roupas,Google Ads,4607,36,30.57,0,0.0
+2026-06-09,Institucional - Marca,Meta Ads,11588,285,524.56,16,2751.5
+2026-06-09,Institucional - Marca,Google Ads,8806,118,132.05,6,1498.89
+2026-06-09,Remarketing - Carrinho Abandonado,Meta Ads,912,5,9.64,0,0.0
+2026-06-09,Remarketing - Carrinho Abandonado,Google Ads,6488,178,530.16,14,2679.69
+2026-06-09,Lançamento - Coleção Verão,Meta Ads,5573,69,163.36,4,926.82
+2026-06-09,Lançamento - Coleção Verão,Google Ads,12543,224,633.33,14,1509.81
+2026-06-09,Promoção - Frete Grátis,Meta Ads,14084,296,633.65,11,1763.98
+2026-06-09,Promoção - Frete Grátis,Google Ads,7686,128,106.15,9,941.83
+2026-06-10,Black Friday - Roupas,Meta Ads,3002,101,265.36,4,852.47
+2026-06-10,Black Friday - Roupas,Google Ads,8835,163,259.44,5,1307.9
+2026-06-10,Institucional - Marca,Meta Ads,8151,272,791.38,4,1325.4
+2026-06-10,Institucional - Marca,Google Ads,5805,39,89.07,1,319.68
+2026-06-10,Remarketing - Carrinho Abandonado,Meta Ads,4830,126,430.34,7,2141.86
+2026-06-10,Remarketing - Carrinho Abandonado,Google Ads,7556,60,61.63,3,298.94
+2026-06-10,Lançamento - Coleção Verão,Meta Ads,11685,371,443.65,17,2430.52
+2026-06-10,Lançamento - Coleção Verão,Google Ads,12411,201,361.95,13,4364.84
+2026-06-10,Promoção - Frete Grátis,Meta Ads,4812,109,190.27,6,1260.3
+2026-06-10,Promoção - Frete Grátis,Google Ads,3423,74,143.96,5,550.12
+2026-06-11,Black Friday - Roupas,Meta Ads,12214,154,291.68,7,1960.44
+2026-06-11,Black Friday - Roupas,Google Ads,9147,77,196.57,4,950.04
+2026-06-11,Institucional - Marca,Meta Ads,12977,220,459.76,3,667.98
+2026-06-11,Institucional - Marca,Google Ads,13928,472,393.09,36,3299.51
+2026-06-11,Remarketing - Carrinho Abandonado,Meta Ads,13960,87,286.8,6,889.84
+2026-06-11,Remarketing - Carrinho Abandonado,Google Ads,14470,493,1090.7,26,6964.16
+2026-06-11,Lançamento - Coleção Verão,Meta Ads,3986,139,372.76,5,1395.09
+2026-06-11,Lançamento - Coleção Verão,Google Ads,7614,102,343.34,7,1421.19
+2026-06-11,Promoção - Frete Grátis,Meta Ads,1167,17,21.39,0,0.0
+2026-06-11,Promoção - Frete Grátis,Google Ads,7983,179,180.77,13,4501.6
+2026-06-12,Black Friday - Roupas,Meta Ads,7602,160,261.72,10,2648.77
+2026-06-12,Black Friday - Roupas,Google Ads,1424,12,12.07,0,0.0
+2026-06-12,Institucional - Marca,Meta Ads,5304,124,239.23,9,2824.54
+2026-06-12,Institucional - Marca,Google Ads,13664,135,257.9,8,1677.6
+2026-06-12,Remarketing - Carrinho Abandonado,Meta Ads,14050,133,319.75,4,1367.51
+2026-06-12,Remarketing - Carrinho Abandonado,Google Ads,7438,164,159.32,2,232.28
+2026-06-12,Lançamento - Coleção Verão,Meta Ads,904,6,18.81,0,0.0
+2026-06-12,Lançamento - Coleção Verão,Google Ads,6489,210,499.78,12,3412.94
+2026-06-12,Promoção - Frete Grátis,Meta Ads,4678,58,116.96,1,337.59
+2026-06-12,Promoção - Frete Grátis,Google Ads,1216,13,41.23,0,0.0
+2026-06-13,Black Friday - Roupas,Meta Ads,14930,125,326.66,5,1442.63
+2026-06-13,Black Friday - Roupas,Google Ads,12654,180,540.76,13,1350.31
+2026-06-13,Institucional - Marca,Meta Ads,5358,91,105.73,1,283.89
+2026-06-13,Institucional - Marca,Google Ads,7496,181,538.23,13,3206.6
+2026-06-13,Remarketing - Carrinho Abandonado,Meta Ads,7381,114,272.78,4,792.47
+2026-06-13,Remarketing - Carrinho Abandonado,Google Ads,13234,354,806.45,14,4561.58
+2026-06-13,Lançamento - Coleção Verão,Meta Ads,5137,121,378.53,9,1077.39
+2026-06-13,Lançamento - Coleção Verão,Google Ads,6827,206,592.47,3,277.15
+2026-06-13,Promoção - Frete Grátis,Meta Ads,8441,166,280.15,9,1303.55
+2026-06-13,Promoção - Frete Grátis,Google Ads,2406,50,102.12,2,376.16
+2026-06-14,Black Friday - Roupas,Meta Ads,6531,158,203.99,5,1610.66
+2026-06-14,Black Friday - Roupas,Google Ads,3766,77,263.91,4,561.76
+2026-06-14,Institucional - Marca,Meta Ads,8456,85,131.94,1,103.95
+2026-06-14,Institucional - Marca,Google Ads,6876,107,343.94,2,338.25
+2026-06-14,Remarketing - Carrinho Abandonado,Meta Ads,7740,60,125.95,3,654.44
+2026-06-14,Remarketing - Carrinho Abandonado,Google Ads,12894,420,405.26,12,3572.09
+2026-06-14,Lançamento - Coleção Verão,Meta Ads,13412,307,1063.11,14,4612.88
+2026-06-14,Lançamento - Coleção Verão,Google Ads,9217,217,389.75,9,2536.35
+2026-06-14,Promoção - Frete Grátis,Meta Ads,5121,48,55.65,2,616.0
+2026-06-14,Promoção - Frete Grátis,Google Ads,7006,146,159.05,6,1342.84
+2026-06-15,Black Friday - Roupas,Meta Ads,3586,29,80.94,0,0.0
+2026-06-15,Black Friday - Roupas,Google Ads,1796,20,33.68,0,0.0
+2026-06-15,Institucional - Marca,Meta Ads,11975,230,404.52,12,2513.85
+2026-06-15,Institucional - Marca,Google Ads,6871,145,345.75,9,1768.93
+2026-06-15,Remarketing - Carrinho Abandonado,Meta Ads,7238,118,201.91,8,1952.32
+2026-06-15,Remarketing - Carrinho Abandonado,Google Ads,12206,191,661.55,10,1440.51
+2026-06-15,Lançamento - Coleção Verão,Meta Ads,11401,134,239.39,5,1548.6
+2026-06-15,Lançamento - Coleção Verão,Google Ads,4017,54,68.48,3,304.99
+2026-06-15,Promoção - Frete Grátis,Meta Ads,8934,49,131.41,3,966.25
+2026-06-15,Promoção - Frete Grátis,Google Ads,9159,312,978.7,20,2992.68
+2026-06-16,Black Friday - Roupas,Meta Ads,3051,81,244.32,4,897.84
+2026-06-16,Black Friday - Roupas,Google Ads,14246,429,580.74,33,8974.59
+2026-06-16,Institucional - Marca,Meta Ads,9415,190,276.36,3,734.6
+2026-06-16,Institucional - Marca,Google Ads,13107,99,214.48,7,1166.01
+2026-06-16,Remarketing - Carrinho Abandonado,Meta Ads,4244,68,137.8,3,684.63
+2026-06-16,Remarketing - Carrinho Abandonado,Google Ads,7541,110,328.53,3,792.02
+2026-06-16,Lançamento - Coleção Verão,Meta Ads,3332,28,58.17,1,294.46
+2026-06-16,Lançamento - Coleção Verão,Google Ads,9810,322,979.74,24,2725.45
+2026-06-16,Promoção - Frete Grátis,Meta Ads,9067,314,425.0,11,3631.55
+2026-06-16,Promoção - Frete Grátis,Google Ads,3891,86,264.27,1,294.72
+2026-06-17,Black Friday - Roupas,Meta Ads,6913,200,605.57,4,574.55
+2026-06-17,Black Friday - Roupas,Google Ads,577,11,19.46,0,0.0
+2026-06-17,Institucional - Marca,Meta Ads,11035,204,556.35,14,3479.1
+2026-06-17,Institucional - Marca,Google Ads,6484,177,381.85,4,1291.54
+2026-06-17,Remarketing - Carrinho Abandonado,Meta Ads,13290,278,272.4,7,1585.99
+2026-06-17,Remarketing - Carrinho Abandonado,Google Ads,8889,295,735.97,9,1058.43
+2026-06-17,Lançamento - Coleção Verão,Meta Ads,6242,147,329.33,10,2929.21
+2026-06-17,Lançamento - Coleção Verão,Google Ads,11289,311,842.45,20,2372.89
+2026-06-17,Promoção - Frete Grátis,Meta Ads,2743,60,171.52,4,689.45
+2026-06-17,Promoção - Frete Grátis,Google Ads,11545,243,442.94,10,2430.69
+2026-06-18,Black Friday - Roupas,Meta Ads,14850,429,516.85,11,3025.09
+2026-06-18,Black Friday - Roupas,Google Ads,4725,25,60.39,1,273.37
+2026-06-18,Institucional - Marca,Meta Ads,2616,77,260.99,2,282.77
+2026-06-18,Institucional - Marca,Google Ads,6666,125,419.71,2,476.56
+2026-06-18,Remarketing - Carrinho Abandonado,Meta Ads,11697,93,138.69,5,1200.5
+2026-06-18,Remarketing - Carrinho Abandonado,Google Ads,7647,167,447.72,12,3251.45
+2026-06-18,Lançamento - Coleção Verão,Meta Ads,3677,103,186.53,1,100.88
+2026-06-18,Lançamento - Coleção Verão,Google Ads,12225,403,1329.51,16,1769.19
+2026-06-18,Promoção - Frete Grátis,Meta Ads,3976,39,50.82,2,339.36
+2026-06-18,Promoção - Frete Grátis,Google Ads,4521,92,220.47,3,284.36
+2026-06-19,Black Friday - Roupas,Meta Ads,8893,258,209.63,8,1500.04
+2026-06-19,Black Friday - Roupas,Google Ads,1036,32,105.34,1,209.83
+2026-06-19,Institucional - Marca,Meta Ads,6990,129,181.43,5,590.16
+2026-06-19,Institucional - Marca,Google Ads,13451,300,374.07,3,492.29
+2026-06-19,Remarketing - Carrinho Abandonado,Meta Ads,4880,109,273.28,1,259.16
+2026-06-19,Remarketing - Carrinho Abandonado,Google Ads,1466,50,101.96,2,624.74
+2026-06-19,Lançamento - Coleção Verão,Meta Ads,5682,198,426.87,10,981.11
+2026-06-19,Lançamento - Coleção Verão,Google Ads,10954,195,577.09,6,1238.54
+2026-06-19,Promoção - Frete Grátis,Meta Ads,12068,73,151.44,3,293.22
+2026-06-19,Promoção - Frete Grátis,Google Ads,5990,111,245.96,4,752.82
+2026-06-20,Black Friday - Roupas,Meta Ads,6297,176,189.74,5,501.93
+2026-06-20,Black Friday - Roupas,Google Ads,13587,178,573.71,8,2369.62
+2026-06-20,Institucional - Marca,Meta Ads,554,5,13.67,0,0.0
+2026-06-20,Institucional - Marca,Google Ads,11498,145,192.78,6,1443.98
+2026-06-20,Remarketing - Carrinho Abandonado,Meta Ads,3810,84,268.48,4,1098.48
+2026-06-20,Remarketing - Carrinho Abandonado,Google Ads,8470,104,286.01,7,2129.12
+2026-06-20,Lançamento - Coleção Verão,Meta Ads,5047,168,198.39,6,1004.86
+2026-06-20,Lançamento - Coleção Verão,Google Ads,14789,79,81.44,1,87.16
+2026-06-20,Promoção - Frete Grátis,Meta Ads,3952,123,311.92,7,2281.08
+2026-06-20,Promoção - Frete Grátis,Google Ads,7352,112,168.05,4,957.52
+2026-06-21,Black Friday - Roupas,Meta Ads,4991,149,258.07,9,1601.5
+2026-06-21,Black Friday - Roupas,Google Ads,13864,191,641.92,12,1413.97
+2026-06-21,Institucional - Marca,Meta Ads,11453,251,868.58,10,1291.69
+2026-06-21,Institucional - Marca,Google Ads,12645,71,108.31,3,753.12
+2026-06-21,Remarketing - Carrinho Abandonado,Meta Ads,12122,139,353.29,5,578.57
+2026-06-21,Remarketing - Carrinho Abandonado,Google Ads,10768,109,167.34,1,326.86
+2026-06-21,Lançamento - Coleção Verão,Meta Ads,12616,371,795.74,5,947.08
+2026-06-21,Lançamento - Coleção Verão,Google Ads,7641,228,309.47,2,233.92
+2026-06-21,Promoção - Frete Grátis,Meta Ads,8492,110,305.46,3,752.81
+2026-06-21,Promoção - Frete Grátis,Google Ads,9146,203,621.77,7,2017.02
+2026-06-22,Black Friday - Roupas,Meta Ads,4129,26,32.47,1,102.36
+2026-06-22,Black Friday - Roupas,Google Ads,12055,339,333.67,23,4554.97
+2026-06-22,Institucional - Marca,Meta Ads,7319,194,310.83,9,1876.8
+2026-06-22,Institucional - Marca,Google Ads,7266,244,284.14,10,1528.76
+2026-06-22,Remarketing - Carrinho Abandonado,Meta Ads,9442,121,291.21,1,214.02
+2026-06-22,Remarketing - Carrinho Abandonado,Google Ads,13152,126,312.86,5,864.92
+2026-06-22,Lançamento - Coleção Verão,Meta Ads,2843,76,162.47,4,789.61
+2026-06-22,Lançamento - Coleção Verão,Google Ads,13850,100,101.0,1,341.28
+2026-06-22,Promoção - Frete Grátis,Meta Ads,4697,106,188.11,1,327.67
+2026-06-22,Promoção - Frete Grátis,Google Ads,3504,100,266.45,4,413.64
+2026-06-23,Black Friday - Roupas,Meta Ads,12355,385,1069.15,25,6446.79
+2026-06-23,Black Friday - Roupas,Google Ads,2921,70,241.33,5,1273.0
+2026-06-23,Institucional - Marca,Meta Ads,12334,427,1430.01,5,1352.53
+2026-06-23,Institucional - Marca,Google Ads,5306,185,425.63,7,1151.3
+2026-06-23,Remarketing - Carrinho Abandonado,Meta Ads,4930,127,203.56,9,3079.67
+2026-06-23,Remarketing - Carrinho Abandonado,Google Ads,13514,390,1096.55,5,1014.44
+2026-06-23,Lançamento - Coleção Verão,Meta Ads,1966,58,52.2,3,426.31
+2026-06-23,Lançamento - Coleção Verão,Google Ads,8480,61,163.48,2,551.37
+2026-06-23,Promoção - Frete Grátis,Meta Ads,13151,291,864.48,13,3362.41
+2026-06-23,Promoção - Frete Grátis,Google Ads,8064,191,609.7,10,1428.99
+2026-06-24,Black Friday - Roupas,Meta Ads,9002,169,587.09,1,130.08
+2026-06-24,Black Friday - Roupas,Google Ads,14085,467,1380.79,37,6463.61
+2026-06-24,Institucional - Marca,Meta Ads,13745,105,94.66,4,947.22
+2026-06-24,Institucional - Marca,Google Ads,2271,78,224.2,3,581.3
+2026-06-24,Remarketing - Carrinho Abandonado,Meta Ads,13176,355,287.21,15,2402.86
+2026-06-24,Remarketing - Carrinho Abandonado,Google Ads,2533,35,50.08,0,0.0
+2026-06-24,Lançamento - Coleção Verão,Meta Ads,8673,55,60.26,2,227.2
+2026-06-24,Lançamento - Coleção Verão,Google Ads,10926,366,1069.87,5,963.73
+2026-06-24,Promoção - Frete Grátis,Meta Ads,10155,320,775.09,23,7982.84
+2026-06-24,Promoção - Frete Grátis,Google Ads,8378,291,414.82,22,5618.9
+2026-06-25,Black Friday - Roupas,Meta Ads,9576,286,321.73,3,551.11
+2026-06-25,Black Friday - Roupas,Google Ads,1436,15,43.57,0,0.0
+2026-06-25,Institucional - Marca,Meta Ads,7714,88,193.54,4,887.03
+2026-06-25,Institucional - Marca,Google Ads,10606,179,509.66,10,1215.52
+2026-06-25,Remarketing - Carrinho Abandonado,Meta Ads,12947,244,605.59,15,1341.2
+2026-06-25,Remarketing - Carrinho Abandonado,Google Ads,5175,115,120.41,8,1213.7
+2026-06-25,Lançamento - Coleção Verão,Meta Ads,9679,186,171.09,12,1074.77
+2026-06-25,Lançamento - Coleção Verão,Google Ads,14274,351,802.85,5,951.41
+2026-06-25,Promoção - Frete Grátis,Meta Ads,1474,7,18.75,0,0.0
+2026-06-25,Promoção - Frete Grátis,Google Ads,8728,101,267.12,1,309.83
+2026-06-26,Black Friday - Roupas,Meta Ads,11803,371,813.76,27,6324.92
+2026-06-26,Black Friday - Roupas,Google Ads,11803,299,695.92,8,2537.84
+2026-06-26,Institucional - Marca,Meta Ads,7814,242,353.87,5,616.54
+2026-06-26,Institucional - Marca,Google Ads,7424,223,598.35,12,2964.3
+2026-06-26,Remarketing - Carrinho Abandonado,Meta Ads,2969,31,98.59,2,411.35
+2026-06-26,Remarketing - Carrinho Abandonado,Google Ads,5650,168,192.86,5,1403.74
+2026-06-26,Lançamento - Coleção Verão,Meta Ads,4498,22,50.64,1,149.85
+2026-06-26,Lançamento - Coleção Verão,Google Ads,10677,145,357.53,11,2756.49
+2026-06-26,Promoção - Frete Grátis,Meta Ads,7509,180,406.43,11,1197.73
+2026-06-26,Promoção - Frete Grátis,Google Ads,12218,259,880.62,8,2006.46
+2026-06-27,Black Friday - Roupas,Meta Ads,9937,274,802.76,6,1728.78
+2026-06-27,Black Friday - Roupas,Google Ads,7991,112,303.75,1,237.19
+2026-06-27,Institucional - Marca,Meta Ads,3252,21,21.04,1,347.34
+2026-06-27,Institucional - Marca,Google Ads,1186,40,112.96,0,0.0
+2026-06-27,Remarketing - Carrinho Abandonado,Meta Ads,5626,39,117.71,1,301.07
+2026-06-27,Remarketing - Carrinho Abandonado,Google Ads,11198,285,571.12,8,2793.79
+2026-06-27,Lançamento - Coleção Verão,Meta Ads,14788,119,369.66,5,1514.99
+2026-06-27,Lançamento - Coleção Verão,Google Ads,1598,18,18.4,1,256.72
+2026-06-27,Promoção - Frete Grátis,Meta Ads,6158,191,649.54,2,554.89
+2026-06-27,Promoção - Frete Grátis,Google Ads,6946,122,307.93,4,616.15
+2026-06-28,Black Friday - Roupas,Meta Ads,14198,203,338.2,12,3376.51
+2026-06-28,Black Friday - Roupas,Google Ads,10547,327,892.81,16,3317.02
+2026-06-28,Institucional - Marca,Meta Ads,4110,139,180.83,9,2607.13
+2026-06-28,Institucional - Marca,Google Ads,9282,172,383.9,1,295.14
+2026-06-28,Remarketing - Carrinho Abandonado,Meta Ads,6559,39,128.17,2,590.13
+2026-06-28,Remarketing - Carrinho Abandonado,Google Ads,3724,18,43.48,0,0.0
+2026-06-28,Lançamento - Coleção Verão,Meta Ads,9212,101,214.86,1,237.13
+2026-06-28,Lançamento - Coleção Verão,Google Ads,616,13,25.61,1,120.39
+2026-06-28,Promoção - Frete Grátis,Meta Ads,12552,90,167.38,3,726.02
+2026-06-28,Promoção - Frete Grátis,Google Ads,10259,253,719.55,19,6177.11
+2026-06-29,Black Friday - Roupas,Meta Ads,1278,24,26.0,0,0.0
+2026-06-29,Black Friday - Roupas,Google Ads,6291,34,71.48,0,0.0
+2026-06-29,Institucional - Marca,Meta Ads,9627,50,84.07,2,207.45
+2026-06-29,Institucional - Marca,Google Ads,12736,95,287.49,3,500.9
+2026-06-29,Remarketing - Carrinho Abandonado,Meta Ads,7514,82,219.07,5,455.6
+2026-06-29,Remarketing - Carrinho Abandonado,Google Ads,9119,74,186.36,4,354.11
+2026-06-29,Lançamento - Coleção Verão,Meta Ads,7417,174,427.16,5,1662.52
+2026-06-29,Lançamento - Coleção Verão,Google Ads,4411,116,343.9,3,900.01
+2026-06-29,Promoção - Frete Grátis,Meta Ads,10746,266,609.97,13,3791.25
+2026-06-29,Promoção - Frete Grátis,Google Ads,1394,33,73.3,2,204.08
+2026-06-30,Black Friday - Roupas,Meta Ads,7679,95,116.92,6,835.13
+2026-06-30,Black Friday - Roupas,Google Ads,4138,79,221.95,5,985.43
+2026-06-30,Institucional - Marca,Meta Ads,11027,219,503.59,13,1841.88
+2026-06-30,Institucional - Marca,Google Ads,9003,308,787.21,7,1845.63
+2026-06-30,Remarketing - Carrinho Abandonado,Meta Ads,6736,118,159.26,8,1016.26
+2026-06-30,Remarketing - Carrinho Abandonado,Google Ads,14536,389,1091.26,15,2601.04
+2026-06-30,Lançamento - Coleção Verão,Meta Ads,10079,282,609.99,13,2844.13
+2026-06-30,Lançamento - Coleção Verão,Google Ads,7063,41,76.58,2,482.77
+2026-06-30,Promoção - Frete Grátis,Meta Ads,11671,206,318.77,10,3263.38
+2026-06-30,Promoção - Frete Grátis,Google Ads,14079,232,477.39,15,2154.96
+2026-07-01,Black Friday - Roupas,Meta Ads,13581,359,1168.33,8,1153.09
+2026-07-01,Black Friday - Roupas,Google Ads,6977,142,271.96,2,396.07
+2026-07-01,Institucional - Marca,Meta Ads,2025,63,126.15,2,353.99
+2026-07-01,Institucional - Marca,Google Ads,8821,69,176.69,2,375.48
+2026-07-01,Remarketing - Carrinho Abandonado,Meta Ads,9944,52,124.21,2,374.2
+2026-07-01,Remarketing - Carrinho Abandonado,Google Ads,7562,140,201.23,2,251.67
+2026-07-01,Lançamento - Coleção Verão,Meta Ads,10685,197,513.65,3,604.04
+2026-07-01,Lançamento - Coleção Verão,Google Ads,6395,150,406.24,3,375.77
+2026-07-01,Promoção - Frete Grátis,Meta Ads,3692,85,149.87,4,1164.33
+2026-07-01,Promoção - Frete Grátis,Google Ads,10347,301,716.52,21,2847.12
+2026-07-02,Black Friday - Roupas,Meta Ads,1456,8,27.71,0,0.0
+2026-07-02,Black Friday - Roupas,Google Ads,781,4,4.52,0,0.0
+2026-07-02,Institucional - Marca,Meta Ads,7480,60,142.72,3,561.88
+2026-07-02,Institucional - Marca,Google Ads,2789,94,76.45,7,1767.94
+2026-07-02,Remarketing - Carrinho Abandonado,Meta Ads,9900,221,328.5,10,1725.16
+2026-07-02,Remarketing - Carrinho Abandonado,Google Ads,14105,129,113.64,4,1081.06
+2026-07-02,Lançamento - Coleção Verão,Meta Ads,11485,309,382.68,7,1941.27
+2026-07-02,Lançamento - Coleção Verão,Google Ads,7312,133,418.15,2,534.02
+2026-07-02,Promoção - Frete Grátis,Meta Ads,5738,191,505.15,8,1974.55
+2026-07-02,Promoção - Frete Grátis,Google Ads,4219,130,373.75,2,589.58
+2026-07-03,Black Friday - Roupas,Meta Ads,14775,373,515.61,20,3726.87
+2026-07-03,Black Friday - Roupas,Google Ads,13880,309,538.02,6,1460.03
+2026-07-03,Institucional - Marca,Meta Ads,1074,36,68.35,2,582.49
+2026-07-03,Institucional - Marca,Google Ads,3730,101,320.37,3,504.9
+2026-07-03,Remarketing - Carrinho Abandonado,Meta Ads,10329,187,604.7,13,2153.36
+2026-07-03,Remarketing - Carrinho Abandonado,Google Ads,1888,55,61.85,2,163.11
+2026-07-03,Lançamento - Coleção Verão,Meta Ads,4226,101,247.1,4,730.85
+2026-07-03,Lançamento - Coleção Verão,Google Ads,6092,139,316.0,5,419.8
+2026-07-03,Promoção - Frete Grátis,Meta Ads,12030,277,721.36,14,2872.01
+2026-07-03,Promoção - Frete Grátis,Google Ads,9718,206,694.01,14,4575.81
+2026-07-04,Black Friday - Roupas,Meta Ads,1677,13,15.63,0,0.0
+2026-07-04,Black Friday - Roupas,Google Ads,14551,338,968.43,22,6025.65
+2026-07-04,Institucional - Marca,Meta Ads,13678,282,851.77,11,3543.24
+2026-07-04,Institucional - Marca,Google Ads,11880,379,552.36,28,2695.62
+2026-07-04,Remarketing - Carrinho Abandonado,Meta Ads,13576,263,348.56,5,1233.42
+2026-07-04,Remarketing - Carrinho Abandonado,Google Ads,9064,122,198.82,8,1804.59
+2026-07-04,Lançamento - Coleção Verão,Meta Ads,7811,60,164.26,2,687.43
+2026-07-04,Lançamento - Coleção Verão,Google Ads,2637,22,28.36,1,128.99
+2026-07-04,Promoção - Frete Grátis,Meta Ads,7552,79,126.18,5,650.06
+2026-07-04,Promoção - Frete Grátis,Google Ads,5547,187,393.74,12,2742.73
+2026-07-05,Black Friday - Roupas,Meta Ads,5995,124,136.8,1,252.26
+2026-07-05,Black Friday - Roupas,Google Ads,1800,56,79.29,1,244.96
+2026-07-05,Institucional - Marca,Meta Ads,11117,175,568.03,11,2533.21
+2026-07-05,Institucional - Marca,Google Ads,13646,387,596.74,26,5054.64
+2026-07-05,Remarketing - Carrinho Abandonado,Meta Ads,3773,110,315.7,2,388.93
+2026-07-05,Remarketing - Carrinho Abandonado,Google Ads,13368,134,373.8,9,1246.68
+2026-07-05,Lançamento - Coleção Verão,Meta Ads,9353,53,134.27,2,455.22
+2026-07-05,Lançamento - Coleção Verão,Google Ads,9341,118,295.76,1,118.28
+2026-07-05,Promoção - Frete Grátis,Meta Ads,1843,16,42.83,0,0.0
+2026-07-05,Promoção - Frete Grátis,Google Ads,12700,327,1136.78,6,648.66
+2026-07-06,Black Friday - Roupas,Meta Ads,1741,26,84.37,1,151.52
+2026-07-06,Black Friday - Roupas,Google Ads,14552,463,610.25,15,2117.96
+2026-07-06,Institucional - Marca,Meta Ads,2972,69,137.62,4,1043.17
+2026-07-06,Institucional - Marca,Google Ads,2975,35,79.03,2,511.47
+2026-07-06,Remarketing - Carrinho Abandonado,Meta Ads,11753,140,284.69,3,282.39
+2026-07-06,Remarketing - Carrinho Abandonado,Google Ads,5791,143,329.76,8,1644.84
+2026-07-06,Lançamento - Coleção Verão,Meta Ads,1161,25,84.64,0,0.0
+2026-07-06,Lançamento - Coleção Verão,Google Ads,9708,98,186.75,3,905.66
+2026-07-06,Promoção - Frete Grátis,Meta Ads,3583,55,142.74,3,991.01
+2026-07-06,Promoção - Frete Grátis,Google Ads,736,6,20.58,0,0.0
+2026-07-07,Black Friday - Roupas,Meta Ads,14059,298,915.9,13,3228.79
+2026-07-07,Black Friday - Roupas,Google Ads,7621,218,683.35,11,2385.31
+2026-07-07,Institucional - Marca,Meta Ads,10215,268,240.57,8,1208.32
+2026-07-07,Institucional - Marca,Google Ads,10293,169,293.23,4,870.5
+2026-07-07,Remarketing - Carrinho Abandonado,Meta Ads,13622,230,461.71,11,2411.57
+2026-07-07,Remarketing - Carrinho Abandonado,Google Ads,1942,55,129.33,2,371.16
+2026-07-07,Lançamento - Coleção Verão,Meta Ads,4607,151,168.24,10,1827.68
+2026-07-07,Lançamento - Coleção Verão,Google Ads,11979,251,689.71,4,548.94
+2026-07-07,Promoção - Frete Grátis,Meta Ads,8193,60,113.28,1,267.64
+2026-07-07,Promoção - Frete Grátis,Google Ads,7873,269,680.74,18,2084.07
+2026-07-08,Black Friday - Roupas,Meta Ads,14100,460,972.93,24,6875.97
+2026-07-08,Black Friday - Roupas,Google Ads,11638,390,1180.94,22,2483.27
+2026-07-08,Institucional - Marca,Meta Ads,3464,20,23.3,1,228.37
+2026-07-08,Institucional - Marca,Google Ads,8467,73,175.53,5,1582.74
+2026-07-08,Remarketing - Carrinho Abandonado,Meta Ads,3536,28,70.85,0,0.0
+2026-07-08,Remarketing - Carrinho Abandonado,Google Ads,5679,90,165.91,4,527.13
+2026-07-08,Lançamento - Coleção Verão,Meta Ads,6988,47,163.85,0,0.0
+2026-07-08,Lançamento - Coleção Verão,Google Ads,9148,163,205.51,2,582.66
+2026-07-08,Promoção - Frete Grátis,Meta Ads,12257,98,261.55,1,217.54
+2026-07-08,Promoção - Frete Grátis,Google Ads,2138,25,35.7,0,0.0
+2026-07-09,Black Friday - Roupas,Meta Ads,919,19,37.06,0,0.0
+2026-07-09,Black Friday - Roupas,Google Ads,6193,152,266.98,7,1470.29
+2026-07-09,Institucional - Marca,Meta Ads,10456,173,588.6,4,464.51
+2026-07-09,Institucional - Marca,Google Ads,7048,39,58.56,2,234.04
+2026-07-09,Remarketing - Carrinho Abandonado,Meta Ads,6042,142,237.63,9,2249.2
+2026-07-09,Remarketing - Carrinho Abandonado,Google Ads,2885,20,18.3,0,0.0
+2026-07-09,Lançamento - Coleção Verão,Meta Ads,11134,207,637.51,3,635.48
+2026-07-09,Lançamento - Coleção Verão,Google Ads,6327,195,284.19,10,2988.85
+2026-07-09,Promoção - Frete Grátis,Meta Ads,12496,210,428.51,13,4171.22
+2026-07-09,Promoção - Frete Grátis,Google Ads,4700,37,95.4,2,596.8
+2026-07-10,Black Friday - Roupas,Meta Ads,4131,52,159.66,0,0.0
+2026-07-10,Black Friday - Roupas,Google Ads,9480,282,602.84,10,2015.34
+2026-07-10,Institucional - Marca,Meta Ads,7588,177,173.45,8,964.37
+2026-07-10,Institucional - Marca,Google Ads,14227,492,982.44,6,541.6
+2026-07-10,Remarketing - Carrinho Abandonado,Meta Ads,12874,341,339.17,5,416.35
+2026-07-10,Remarketing - Carrinho Abandonado,Google Ads,2168,43,79.4,1,347.73
+2026-07-10,Lançamento - Coleção Verão,Meta Ads,5031,142,367.17,3,381.03
+2026-07-10,Lançamento - Coleção Verão,Google Ads,14072,302,918.82,4,778.24
+2026-07-10,Promoção - Frete Grátis,Meta Ads,12386,92,314.02,2,575.38
+2026-07-10,Promoção - Frete Grátis,Google Ads,13708,469,1220.27,5,744.81
+2026-07-11,Black Friday - Roupas,Meta Ads,7479,211,535.63,9,821.94
+2026-07-11,Black Friday - Roupas,Google Ads,9061,132,150.23,5,553.84
+2026-07-11,Institucional - Marca,Meta Ads,1280,28,78.95,1,257.25
+2026-07-11,Institucional - Marca,Google Ads,9214,58,63.75,3,316.96
+2026-07-11,Remarketing - Carrinho Abandonado,Meta Ads,5083,91,180.76,4,1338.52
+2026-07-11,Remarketing - Carrinho Abandonado,Google Ads,2961,97,254.64,4,333.73
+2026-07-11,Lançamento - Coleção Verão,Meta Ads,12680,172,516.53,12,3702.71
+2026-07-11,Lançamento - Coleção Verão,Google Ads,1756,37,93.14,0,0.0
+2026-07-11,Promoção - Frete Grátis,Meta Ads,801,21,60.82,1,127.91
+2026-07-11,Promoção - Frete Grátis,Google Ads,9289,256,390.96,12,3318.55
+2026-07-12,Black Friday - Roupas,Meta Ads,13557,121,333.98,8,1101.18
+2026-07-12,Black Friday - Roupas,Google Ads,4582,43,74.15,1,284.71
+2026-07-12,Institucional - Marca,Meta Ads,1876,37,59.33,1,266.0
+2026-07-12,Institucional - Marca,Google Ads,6426,143,453.06,5,617.15
+2026-07-12,Remarketing - Carrinho Abandonado,Meta Ads,7853,41,60.11,2,695.58
+2026-07-12,Remarketing - Carrinho Abandonado,Google Ads,14294,243,719.33,5,1149.36
+2026-07-12,Lançamento - Coleção Verão,Meta Ads,4467,131,322.32,7,1269.24
+2026-07-12,Lançamento - Coleção Verão,Google Ads,14204,307,249.93,19,1701.15
+2026-07-12,Promoção - Frete Grátis,Meta Ads,10948,58,163.78,3,789.49
+2026-07-12,Promoção - Frete Grátis,Google Ads,4483,42,68.26,2,698.02
+2026-07-13,Black Friday - Roupas,Meta Ads,2679,44,111.63,2,277.29
+2026-07-13,Black Friday - Roupas,Google Ads,7821,130,248.83,7,566.08
+2026-07-13,Institucional - Marca,Meta Ads,10777,107,137.98,3,565.88
+2026-07-13,Institucional - Marca,Google Ads,11322,219,555.01,3,709.79
+2026-07-13,Remarketing - Carrinho Abandonado,Meta Ads,13866,361,340.27,15,3627.44
+2026-07-13,Remarketing - Carrinho Abandonado,Google Ads,14726,192,581.31,8,806.45
+2026-07-13,Lançamento - Coleção Verão,Meta Ads,13193,341,959.57,26,3553.09
+2026-07-13,Lançamento - Coleção Verão,Google Ads,1367,28,55.68,0,0.0
+2026-07-13,Promoção - Frete Grátis,Meta Ads,9898,119,214.54,1,296.37
+2026-07-13,Promoção - Frete Grátis,Google Ads,10018,350,1161.79,19,3681.0
+2026-07-14,Black Friday - Roupas,Meta Ads,1783,35,44.84,2,695.21
+2026-07-14,Black Friday - Roupas,Google Ads,2671,44,103.14,2,259.62
+2026-07-14,Institucional - Marca,Meta Ads,14384,494,615.67,29,6906.89
+2026-07-14,Institucional - Marca,Google Ads,14816,384,1271.03,24,2283.76
+2026-07-14,Remarketing - Carrinho Abandonado,Meta Ads,9238,165,520.8,11,1432.72
+2026-07-14,Remarketing - Carrinho Abandonado,Google Ads,2596,46,153.22,2,500.83
+2026-07-14,Lançamento - Coleção Verão,Meta Ads,13425,360,770.56,14,3877.54
+2026-07-14,Lançamento - Coleção Verão,Google Ads,10553,70,98.57,1,187.69
+2026-07-14,Promoção - Frete Grátis,Meta Ads,2119,52,175.91,0,0.0
+2026-07-14,Promoção - Frete Grátis,Google Ads,11153,67,103.48,1,292.52
+2026-07-15,Black Friday - Roupas,Meta Ads,1405,18,51.31,0,0.0
+2026-07-15,Black Friday - Roupas,Google Ads,6175,59,183.1,0,0.0
+2026-07-15,Institucional - Marca,Meta Ads,1374,12,26.85,0,0.0
+2026-07-15,Institucional - Marca,Google Ads,10114,57,147.76,4,924.98
+2026-07-15,Remarketing - Carrinho Abandonado,Meta Ads,6842,114,346.02,7,1740.16
+2026-07-15,Remarketing - Carrinho Abandonado,Google Ads,4760,163,243.3,9,1201.38
+2026-07-15,Lançamento - Coleção Verão,Meta Ads,11044,208,712.28,10,1743.67
+2026-07-15,Lançamento - Coleção Verão,Google Ads,9116,51,139.95,2,207.97
+2026-07-15,Promoção - Frete Grátis,Meta Ads,1097,23,50.9,0,0.0
+2026-07-15,Promoção - Frete Grátis,Google Ads,7597,161,472.95,7,1718.38
+2026-07-16,Black Friday - Roupas,Meta Ads,2017,37,78.02,0,0.0
+2026-07-16,Black Friday - Roupas,Google Ads,13868,347,710.72,13,3324.92
+2026-07-16,Institucional - Marca,Meta Ads,11849,162,473.82,2,352.23
+2026-07-16,Institucional - Marca,Google Ads,1110,7,20.46,0,0.0
+2026-07-16,Remarketing - Carrinho Abandonado,Meta Ads,13319,284,808.76,17,1442.37
+2026-07-16,Remarketing - Carrinho Abandonado,Google Ads,11483,359,1139.78,25,3611.87
+2026-07-16,Lançamento - Coleção Verão,Meta Ads,11740,255,720.88,12,2750.14
+2026-07-16,Lançamento - Coleção Verão,Google Ads,6379,120,390.59,5,1072.05
+2026-07-16,Promoção - Frete Grátis,Meta Ads,5369,86,173.68,3,315.66
+2026-07-16,Promoção - Frete Grátis,Google Ads,7352,249,336.19,11,1732.8
+2026-07-17,Black Friday - Roupas,Meta Ads,975,27,41.75,0,0.0
+2026-07-17,Black Friday - Roupas,Google Ads,8578,278,622.49,5,1339.46
+2026-07-17,Institucional - Marca,Meta Ads,12031,120,294.77,4,1288.96
+2026-07-17,Institucional - Marca,Google Ads,2398,82,96.75,1,129.74
+2026-07-17,Remarketing - Carrinho Abandonado,Meta Ads,1112,30,90.45,0,0.0
+2026-07-17,Remarketing - Carrinho Abandonado,Google Ads,7009,52,165.49,3,649.22
+2026-07-17,Lançamento - Coleção Verão,Meta Ads,7683,266,561.38,4,1103.2
+2026-07-17,Lançamento - Coleção Verão,Google Ads,7829,78,248.13,3,371.41
+2026-07-17,Promoção - Frete Grátis,Meta Ads,8504,185,411.44,11,3524.07
+2026-07-17,Promoção - Frete Grátis,Google Ads,11761,316,412.7,22,6625.24
+2026-07-18,Black Friday - Roupas,Meta Ads,14245,118,336.4,9,2910.15
+2026-07-18,Black Friday - Roupas,Google Ads,14175,266,469.77,11,3339.9
+2026-07-18,Institucional - Marca,Meta Ads,13263,275,401.42,4,414.15
+2026-07-18,Institucional - Marca,Google Ads,14228,173,204.72,5,1007.97
+2026-07-18,Remarketing - Carrinho Abandonado,Meta Ads,5933,138,272.67,6,1675.67
+2026-07-18,Remarketing - Carrinho Abandonado,Google Ads,7263,139,478.66,7,798.64
+2026-07-18,Lançamento - Coleção Verão,Meta Ads,6549,96,254.7,1,127.22
+2026-07-18,Lançamento - Coleção Verão,Google Ads,6844,168,584.25,2,201.62
+2026-07-18,Promoção - Frete Grátis,Meta Ads,10294,265,578.8,8,1099.31
+2026-07-18,Promoção - Frete Grátis,Google Ads,6870,191,363.36,12,3887.69
+2026-07-19,Black Friday - Roupas,Meta Ads,8068,225,658.98,12,1803.33
+2026-07-19,Black Friday - Roupas,Google Ads,12500,390,312.2,8,1481.88
+2026-07-19,Institucional - Marca,Meta Ads,7201,135,423.13,6,1096.25
+2026-07-19,Institucional - Marca,Google Ads,6161,179,374.73,2,387.58
+2026-07-19,Remarketing - Carrinho Abandonado,Meta Ads,13057,424,659.79,29,4608.07
+2026-07-19,Remarketing - Carrinho Abandonado,Google Ads,3446,95,282.46,1,339.96
+2026-07-19,Lançamento - Coleção Verão,Meta Ads,7730,168,419.37,7,1760.32
+2026-07-19,Lançamento - Coleção Verão,Google Ads,7655,64,172.8,3,318.19
+2026-07-19,Promoção - Frete Grátis,Meta Ads,785,5,11.66,0,0.0
+2026-07-19,Promoção - Frete Grátis,Google Ads,13608,189,304.25,11,1022.98
+2026-07-20,Black Friday - Roupas,Meta Ads,8759,274,868.2,9,1547.19
+2026-07-20,Black Friday - Roupas,Google Ads,14443,152,154.01,4,1178.14
+2026-07-20,Institucional - Marca,Meta Ads,10385,185,281.75,12,2817.65
+2026-07-20,Institucional - Marca,Google Ads,1160,8,24.36,0,0.0
+2026-07-20,Remarketing - Carrinho Abandonado,Meta Ads,2544,52,46.18,3,292.4
+2026-07-20,Remarketing - Carrinho Abandonado,Google Ads,11219,248,544.88,9,1490.18
+2026-07-20,Lançamento - Coleção Verão,Meta Ads,12351,233,272.92,7,871.52
+2026-07-20,Lançamento - Coleção Verão,Google Ads,905,21,52.6,1,269.71
+2026-07-20,Promoção - Frete Grátis,Meta Ads,12919,326,376.72,8,2339.38
+2026-07-20,Promoção - Frete Grátis,Google Ads,9270,227,764.18,11,3088.47
+2026-07-21,Black Friday - Roupas,Meta Ads,10484,137,260.14,9,727.1
+2026-07-21,Black Friday - Roupas,Google Ads,7216,138,127.41,2,309.48
+2026-07-21,Institucional - Marca,Meta Ads,8116,150,311.55,8,1654.65
+2026-07-21,Institucional - Marca,Google Ads,1955,26,35.33,1,81.49
+2026-07-21,Remarketing - Carrinho Abandonado,Meta Ads,1825,11,33.55,0,0.0
+2026-07-21,Remarketing - Carrinho Abandonado,Google Ads,14618,425,996.43,19,3025.6
+2026-07-21,Lançamento - Coleção Verão,Meta Ads,11121,148,444.75,4,1203.66
+2026-07-21,Lançamento - Coleção Verão,Google Ads,10504,161,349.37,11,2345.83
+2026-07-21,Promoção - Frete Grátis,Meta Ads,2017,70,80.85,2,373.07
+2026-07-21,Promoção - Frete Grátis,Google Ads,12383,333,1059.64,18,2694.72
+2026-07-22,Black Friday - Roupas,Meta Ads,7088,101,305.45,7,2112.06
+2026-07-22,Black Friday - Roupas,Google Ads,5115,157,126.49,9,2735.9
+2026-07-22,Institucional - Marca,Meta Ads,4260,98,260.07,1,183.64
+2026-07-22,Institucional - Marca,Google Ads,11378,283,296.91,14,3197.43
+2026-07-22,Remarketing - Carrinho Abandonado,Meta Ads,13924,99,100.63,3,1002.8
+2026-07-22,Remarketing - Carrinho Abandonado,Google Ads,5554,135,343.63,9,2174.82
+2026-07-22,Lançamento - Coleção Verão,Meta Ads,9601,231,754.42,12,3790.78
+2026-07-22,Lançamento - Coleção Verão,Google Ads,3655,88,246.46,4,1215.34
+2026-07-22,Promoção - Frete Grátis,Meta Ads,12113,112,93.14,4,638.64
+2026-07-22,Promoção - Frete Grátis,Google Ads,2356,17,31.93,1,298.17
+2026-07-23,Black Friday - Roupas,Meta Ads,9842,150,415.32,8,2466.51
+2026-07-23,Black Friday - Roupas,Google Ads,14249,435,822.38,6,1358.91
+2026-07-23,Institucional - Marca,Meta Ads,10713,307,615.64,20,6041.08
+2026-07-23,Institucional - Marca,Google Ads,13967,312,889.28,5,1601.03
+2026-07-23,Remarketing - Carrinho Abandonado,Meta Ads,10733,172,150.33,6,1331.82
+2026-07-23,Remarketing - Carrinho Abandonado,Google Ads,3861,38,74.57,0,0.0
+2026-07-23,Lançamento - Coleção Verão,Meta Ads,11956,399,685.23,18,3281.5
+2026-07-23,Lançamento - Coleção Verão,Google Ads,1942,29,28.82,1,164.03
+2026-07-23,Promoção - Frete Grátis,Meta Ads,2329,70,156.38,4,946.64
+2026-07-23,Promoção - Frete Grátis,Google Ads,13620,111,138.96,8,1133.53
+2026-07-24,Black Friday - Roupas,Meta Ads,3915,78,265.42,2,181.06
+2026-07-24,Black Friday - Roupas,Google Ads,14825,485,930.33,18,2962.18
+2026-07-24,Institucional - Marca,Meta Ads,6768,126,199.2,9,1002.22
+2026-07-24,Institucional - Marca,Google Ads,6813,110,228.78,4,1394.45
+2026-07-24,Remarketing - Carrinho Abandonado,Meta Ads,6844,236,372.57,18,3332.88
+2026-07-24,Remarketing - Carrinho Abandonado,Google Ads,10848,370,1068.77,29,6061.79
+2026-07-24,Lançamento - Coleção Verão,Meta Ads,2432,51,145.71,3,596.76
+2026-07-24,Lançamento - Coleção Verão,Google Ads,14365,428,1161.74,9,1953.09
+2026-07-24,Promoção - Frete Grátis,Meta Ads,882,11,37.5,0,0.0
+2026-07-24,Promoção - Frete Grátis,Google Ads,2127,47,164.46,0,0.0
+2026-07-25,Black Friday - Roupas,Meta Ads,13783,235,818.6,16,3973.11
+2026-07-25,Black Friday - Roupas,Google Ads,14572,419,857.23,25,2998.89
+2026-07-25,Institucional - Marca,Meta Ads,9348,246,799.19,4,960.46
+2026-07-25,Institucional - Marca,Google Ads,14677,391,875.9,27,3112.46
+2026-07-25,Remarketing - Carrinho Abandonado,Meta Ads,7038,151,144.34,8,1648.25
+2026-07-25,Remarketing - Carrinho Abandonado,Google Ads,13805,460,552.8,19,6552.47
+2026-07-25,Lançamento - Coleção Verão,Meta Ads,6367,175,372.44,5,1063.41
+2026-07-25,Lançamento - Coleção Verão,Google Ads,10302,114,325.68,4,872.18
+2026-07-25,Promoção - Frete Grátis,Meta Ads,3308,52,143.49,3,609.34
+2026-07-25,Promoção - Frete Grátis,Google Ads,5199,155,443.95,7,2366.93
+2026-07-26,Black Friday - Roupas,Meta Ads,3619,126,121.03,1,252.85
+2026-07-26,Black Friday - Roupas,Google Ads,4435,54,88.67,1,88.31
+2026-07-26,Institucional - Marca,Meta Ads,9634,229,755.98,2,417.5
+2026-07-26,Institucional - Marca,Google Ads,3920,23,72.55,1,250.79
+2026-07-26,Remarketing - Carrinho Abandonado,Meta Ads,776,12,35.66,0,0.0
+2026-07-26,Remarketing - Carrinho Abandonado,Google Ads,4652,133,462.11,3,1045.67
+2026-07-26,Lançamento - Coleção Verão,Meta Ads,12251,169,141.73,10,3052.19
+2026-07-26,Lançamento - Coleção Verão,Google Ads,6644,46,37.5,3,905.76
+2026-07-26,Promoção - Frete Grátis,Meta Ads,8892,248,764.83,13,1351.0
+2026-07-26,Promoção - Frete Grátis,Google Ads,12028,321,499.77,18,1559.06
+2026-07-27,Black Friday - Roupas,Meta Ads,1598,24,26.39,1,335.88
+2026-07-27,Black Friday - Roupas,Google Ads,5909,30,32.18,2,528.14
+2026-07-27,Institucional - Marca,Meta Ads,6276,125,368.15,7,654.93
+2026-07-27,Institucional - Marca,Google Ads,13237,348,904.98,8,2504.95
+2026-07-27,Remarketing - Carrinho Abandonado,Meta Ads,3451,47,56.93,1,85.95
+2026-07-27,Remarketing - Carrinho Abandonado,Google Ads,7898,152,214.36,8,2754.6
+2026-07-27,Lançamento - Coleção Verão,Meta Ads,2056,23,44.24,1,130.72
+2026-07-27,Lançamento - Coleção Verão,Google Ads,682,13,26.17,0,0.0
+2026-07-27,Promoção - Frete Grátis,Meta Ads,10279,247,548.58,10,1433.56
+2026-07-27,Promoção - Frete Grátis,Google Ads,8744,254,582.11,11,1304.34
+2026-07-28,Black Friday - Roupas,Meta Ads,6090,162,305.19,3,954.41
+2026-07-28,Black Friday - Roupas,Google Ads,8427,201,190.29,12,1988.98
+2026-07-28,Institucional - Marca,Meta Ads,5586,59,171.93,3,720.72
+2026-07-28,Institucional - Marca,Google Ads,6852,47,144.11,0,0.0
+2026-07-28,Remarketing - Carrinho Abandonado,Meta Ads,9580,71,235.25,4,460.32
+2026-07-28,Remarketing - Carrinho Abandonado,Google Ads,4732,143,235.38,9,2887.25
+2026-07-28,Lançamento - Coleção Verão,Meta Ads,10880,192,349.2,14,3672.03
+2026-07-28,Lançamento - Coleção Verão,Google Ads,11140,285,607.99,10,2508.32
+2026-07-28,Promoção - Frete Grátis,Meta Ads,7594,38,47.53,2,519.85
+2026-07-28,Promoção - Frete Grátis,Google Ads,9620,128,147.19,7,2344.13
+2026-07-29,Black Friday - Roupas,Meta Ads,6332,51,148.46,2,186.02
+2026-07-29,Black Friday - Roupas,Google Ads,1624,32,58.87,2,417.02
+2026-07-29,Institucional - Marca,Meta Ads,2019,22,39.5,0,0.0
+2026-07-29,Institucional - Marca,Google Ads,4572,48,109.95,1,274.31
+2026-07-29,Remarketing - Carrinho Abandonado,Meta Ads,13436,332,688.95,23,3179.75
+2026-07-29,Remarketing - Carrinho Abandonado,Google Ads,11360,313,280.77,11,3644.5
+2026-07-29,Lançamento - Coleção Verão,Meta Ads,14615,396,654.27,21,3920.39
+2026-07-29,Lançamento - Coleção Verão,Google Ads,13609,149,477.33,4,717.21
+2026-07-29,Promoção - Frete Grátis,Meta Ads,7980,237,690.01,11,1176.6
+2026-07-29,Promoção - Frete Grátis,Google Ads,12349,67,122.18,2,170.44
+2026-07-30,Black Friday - Roupas,Meta Ads,7511,251,222.09,15,2537.48
+2026-07-30,Black Friday - Roupas,Google Ads,12543,286,236.46,12,4081.74
+2026-07-30,Institucional - Marca,Meta Ads,3759,63,180.07,2,304.32
+2026-07-30,Institucional - Marca,Google Ads,11204,231,793.54,4,338.3
+2026-07-30,Remarketing - Carrinho Abandonado,Meta Ads,6318,104,186.46,2,395.17
+2026-07-30,Remarketing - Carrinho Abandonado,Google Ads,14547,200,577.5,9,1565.87
+2026-07-30,Lançamento - Coleção Verão,Meta Ads,4209,93,217.05,5,1140.32
+2026-07-30,Lançamento - Coleção Verão,Google Ads,7895,240,207.29,17,4954.88
+2026-07-30,Promoção - Frete Grátis,Meta Ads,12267,229,429.29,7,684.16
+2026-07-30,Promoção - Frete Grátis,Google Ads,9180,304,738.38,13,1249.6
+2026-07-31,Black Friday - Roupas,Meta Ads,9933,223,774.6,5,1116.5
+2026-07-31,Black Friday - Roupas,Google Ads,9671,206,700.29,3,536.2
+2026-07-31,Institucional - Marca,Meta Ads,6190,165,408.09,11,3396.17
+2026-07-31,Institucional - Marca,Google Ads,7968,105,362.3,4,1298.93
+2026-07-31,Remarketing - Carrinho Abandonado,Meta Ads,7506,189,283.83,6,1966.33
+2026-07-31,Remarketing - Carrinho Abandonado,Google Ads,715,19,42.84,0,0.0
+2026-07-31,Lançamento - Coleção Verão,Meta Ads,11533,108,88.69,5,1004.36
+2026-07-31,Lançamento - Coleção Verão,Google Ads,6185,108,174.44,6,1053.91
+2026-07-31,Promoção - Frete Grátis,Meta Ads,5741,145,145.85,4,1191.52
+2026-07-31,Promoção - Frete Grátis,Google Ads,6853,146,187.88,6,1388.62
+2026-08-01,Black Friday - Roupas,Meta Ads,6137,112,152.86,1,307.79
+2026-08-01,Black Friday - Roupas,Google Ads,12515,436,969.46,16,4127.37
+2026-08-01,Institucional - Marca,Meta Ads,12444,135,454.8,10,2721.65
+2026-08-01,Institucional - Marca,Google Ads,11185,247,370.69,10,2402.61
+2026-08-01,Remarketing - Carrinho Abandonado,Meta Ads,9561,226,779.51,5,1470.0
+2026-08-01,Remarketing - Carrinho Abandonado,Google Ads,4142,64,171.87,2,674.56
+2026-08-01,Lançamento - Coleção Verão,Meta Ads,1429,39,48.22,1,273.95
+2026-08-01,Lançamento - Coleção Verão,Google Ads,13282,158,321.88,10,3392.45
+2026-08-01,Promoção - Frete Grátis,Meta Ads,11493,323,693.49,3,247.32
+2026-08-01,Promoção - Frete Grátis,Google Ads,2136,34,77.87,2,184.87
+2026-08-02,Black Friday - Roupas,Meta Ads,2717,39,120.5,2,211.52
+2026-08-02,Black Friday - Roupas,Google Ads,11352,140,264.24,10,801.2
+2026-08-02,Institucional - Marca,Meta Ads,3287,44,82.46,3,1044.54
+2026-08-02,Institucional - Marca,Google Ads,4243,86,180.62,4,417.98
+2026-08-02,Remarketing - Carrinho Abandonado,Meta Ads,10321,335,1128.11,16,2822.76
+2026-08-02,Remarketing - Carrinho Abandonado,Google Ads,4869,169,311.48,8,1537.7
+2026-08-02,Lançamento - Coleção Verão,Meta Ads,3508,42,55.33,3,322.46
+2026-08-02,Lançamento - Coleção Verão,Google Ads,14077,425,1202.66,11,3720.27
+2026-08-02,Promoção - Frete Grátis,Meta Ads,11093,281,395.42,11,3015.9
+2026-08-02,Promoção - Frete Grátis,Google Ads,3371,75,164.63,4,625.1
+2026-08-03,Black Friday - Roupas,Meta Ads,1199,21,68.04,1,188.25
+2026-08-03,Black Friday - Roupas,Google Ads,5057,143,298.31,6,811.58
+2026-08-03,Institucional - Marca,Meta Ads,4816,60,95.9,3,266.58
+2026-08-03,Institucional - Marca,Google Ads,12257,87,85.81,6,1301.21
+2026-08-03,Remarketing - Carrinho Abandonado,Meta Ads,10082,295,901.74,9,2405.49
+2026-08-03,Remarketing - Carrinho Abandonado,Google Ads,4107,63,190.7,2,410.18
+2026-08-03,Lançamento - Coleção Verão,Meta Ads,3752,50,97.41,0,0.0
+2026-08-03,Lançamento - Coleção Verão,Google Ads,8497,178,426.16,2,355.58
+2026-08-03,Promoção - Frete Grátis,Meta Ads,12588,430,606.53,13,2106.84
+2026-08-03,Promoção - Frete Grátis,Google Ads,6134,193,181.45,4,654.89
+2026-08-04,Black Friday - Roupas,Meta Ads,4582,114,319.56,7,1358.77
+2026-08-04,Black Friday - Roupas,Google Ads,8997,286,860.48,7,1073.02
+2026-08-04,Institucional - Marca,Meta Ads,7852,126,407.64,8,2767.29
+2026-08-04,Institucional - Marca,Google Ads,11243,313,708.84,6,1096.72
+2026-08-04,Remarketing - Carrinho Abandonado,Meta Ads,12778,272,738.53,5,1453.85
+2026-08-04,Remarketing - Carrinho Abandonado,Google Ads,9212,120,299.61,5,888.31
+2026-08-04,Lançamento - Coleção Verão,Meta Ads,6179,85,231.96,5,538.4
+2026-08-04,Lançamento - Coleção Verão,Google Ads,14644,384,485.62,29,5834.21
+2026-08-04,Promoção - Frete Grátis,Meta Ads,7861,203,553.92,8,2629.35
+2026-08-04,Promoção - Frete Grátis,Google Ads,906,7,21.67,0,0.0
+2026-08-05,Black Friday - Roupas,Meta Ads,1180,12,20.79,0,0.0
+2026-08-05,Black Friday - Roupas,Google Ads,2038,17,48.7,0,0.0
+2026-08-05,Institucional - Marca,Meta Ads,4787,95,173.6,2,584.55
+2026-08-05,Institucional - Marca,Google Ads,1651,53,44.7,3,340.75
+2026-08-05,Remarketing - Carrinho Abandonado,Meta Ads,4673,122,417.2,4,573.77
+2026-08-05,Remarketing - Carrinho Abandonado,Google Ads,12078,241,652.32,11,2485.98
+2026-08-05,Lançamento - Coleção Verão,Meta Ads,2740,39,81.98,0,0.0
+2026-08-05,Lançamento - Coleção Verão,Google Ads,8625,186,347.95,3,940.89
+2026-08-05,Promoção - Frete Grátis,Meta Ads,4231,107,266.17,3,901.29
+2026-08-05,Promoção - Frete Grátis,Google Ads,4908,141,208.15,7,1640.6
+2026-08-06,Black Friday - Roupas,Meta Ads,8451,291,726.21,7,867.72
+2026-08-06,Black Friday - Roupas,Google Ads,8660,185,291.67,5,876.49
+2026-08-06,Institucional - Marca,Meta Ads,1924,63,123.63,4,973.95
+2026-08-06,Institucional - Marca,Google Ads,1387,39,61.29,1,265.07
+2026-08-06,Remarketing - Carrinho Abandonado,Meta Ads,6840,48,65.02,1,345.15
+2026-08-06,Remarketing - Carrinho Abandonado,Google Ads,13895,349,875.0,8,1543.6
+2026-08-06,Lançamento - Coleção Verão,Meta Ads,6441,148,514.15,4,1336.57
+2026-08-06,Lançamento - Coleção Verão,Google Ads,4956,170,166.98,7,899.0
+2026-08-06,Promoção - Frete Grátis,Meta Ads,1017,21,72.31,1,131.25
+2026-08-06,Promoção - Frete Grátis,Google Ads,14279,252,437.38,9,1362.19
+2026-08-07,Black Friday - Roupas,Meta Ads,13565,278,777.97,15,3425.91
+2026-08-07,Black Friday - Roupas,Google Ads,6809,231,561.29,3,301.22
+2026-08-07,Institucional - Marca,Meta Ads,6663,92,96.47,4,993.54
+2026-08-07,Institucional - Marca,Google Ads,11106,239,605.25,14,2530.92
+2026-08-07,Remarketing - Carrinho Abandonado,Meta Ads,1806,45,121.86,2,328.97
+2026-08-07,Remarketing - Carrinho Abandonado,Google Ads,4695,58,46.72,1,111.61
+2026-08-07,Lançamento - Coleção Verão,Meta Ads,14796,142,475.81,8,2547.27
+2026-08-07,Lançamento - Coleção Verão,Google Ads,1771,40,107.72,2,380.4
+2026-08-07,Promoção - Frete Grátis,Meta Ads,11620,192,638.96,9,3003.35
+2026-08-07,Promoção - Frete Grátis,Google Ads,8317,141,432.51,3,784.69
+2026-08-08,Black Friday - Roupas,Meta Ads,8867,221,473.98,13,2187.93
+2026-08-08,Black Friday - Roupas,Google Ads,2279,62,202.7,2,299.7
+2026-08-08,Institucional - Marca,Meta Ads,4176,85,168.61,6,851.26
+2026-08-08,Institucional - Marca,Google Ads,4638,111,161.33,6,628.05
+2026-08-08,Remarketing - Carrinho Abandonado,Meta Ads,9060,267,249.66,19,1671.36
+2026-08-08,Remarketing - Carrinho Abandonado,Google Ads,11476,131,200.58,3,290.65
+2026-08-08,Lançamento - Coleção Verão,Meta Ads,8752,155,214.12,8,1924.77
+2026-08-08,Lançamento - Coleção Verão,Google Ads,2129,71,217.54,4,1208.82
+2026-08-08,Promoção - Frete Grátis,Meta Ads,8110,109,318.75,4,874.7
+2026-08-08,Promoção - Frete Grátis,Google Ads,1514,41,90.52,0,0.0
+2026-08-09,Black Friday - Roupas,Meta Ads,7740,86,254.49,2,627.2
+2026-08-09,Black Friday - Roupas,Google Ads,3412,108,280.74,7,1418.71
+2026-08-09,Institucional - Marca,Meta Ads,9136,285,718.91,19,4082.08
+2026-08-09,Institucional - Marca,Google Ads,12389,303,1008.37,4,1210.72
+2026-08-09,Remarketing - Carrinho Abandonado,Meta Ads,8329,237,572.8,5,1196.81
+2026-08-09,Remarketing - Carrinho Abandonado,Google Ads,8826,59,125.43,4,433.82
+2026-08-09,Lançamento - Coleção Verão,Meta Ads,9514,251,208.59,9,2965.39
+2026-08-09,Lançamento - Coleção Verão,Google Ads,14152,138,136.67,3,778.02
+2026-08-09,Promoção - Frete Grátis,Meta Ads,3168,94,188.45,6,492.9
+2026-08-09,Promoção - Frete Grátis,Google Ads,2687,33,72.29,1,176.36
+2026-08-10,Black Friday - Roupas,Meta Ads,12082,88,277.74,5,691.68
+2026-08-10,Black Friday - Roupas,Google Ads,9258,310,521.48,10,2165.21
+2026-08-10,Institucional - Marca,Meta Ads,3354,40,66.41,2,201.93
+2026-08-10,Institucional - Marca,Google Ads,10848,217,287.18,15,3941.61
+2026-08-10,Remarketing - Carrinho Abandonado,Meta Ads,11204,171,350.03,6,501.47
+2026-08-10,Remarketing - Carrinho Abandonado,Google Ads,11196,109,285.45,2,534.73
+2026-08-10,Lançamento - Coleção Verão,Meta Ads,13282,261,511.55,16,5008.04
+2026-08-10,Lançamento - Coleção Verão,Google Ads,9176,247,541.01,5,512.8
+2026-08-10,Promoção - Frete Grátis,Meta Ads,9412,164,455.51,11,1240.84
+2026-08-10,Promoção - Frete Grátis,Google Ads,14818,120,168.05,5,1220.47
+2026-08-11,Black Friday - Roupas,Meta Ads,10945,109,158.93,3,511.9
+2026-08-11,Black Friday - Roupas,Google Ads,3953,133,327.71,6,1153.56
+2026-08-11,Institucional - Marca,Meta Ads,3505,109,287.02,4,1133.88
+2026-08-11,Institucional - Marca,Google Ads,2448,48,91.79,3,751.45
+2026-08-11,Remarketing - Carrinho Abandonado,Meta Ads,12707,423,1134.02,18,5975.0
+2026-08-11,Remarketing - Carrinho Abandonado,Google Ads,4890,45,120.09,1,185.8
+2026-08-11,Lançamento - Coleção Verão,Meta Ads,13092,332,958.51,25,7241.3
+2026-08-11,Lançamento - Coleção Verão,Google Ads,4145,119,117.38,5,1156.92
+2026-08-11,Promoção - Frete Grátis,Meta Ads,4200,48,131.02,3,832.37
+2026-08-11,Promoção - Frete Grátis,Google Ads,9788,206,629.85,13,4000.07
+2026-08-12,Black Friday - Roupas,Meta Ads,11238,99,155.52,4,871.41
+2026-08-12,Black Friday - Roupas,Google Ads,1158,35,111.4,1,100.44
+2026-08-12,Institucional - Marca,Meta Ads,5137,125,105.23,3,408.44
+2026-08-12,Institucional - Marca,Google Ads,4219,132,244.38,6,2048.27
+2026-08-12,Remarketing - Carrinho Abandonado,Meta Ads,9423,201,693.57,8,1748.88
+2026-08-12,Remarketing - Carrinho Abandonado,Google Ads,8681,156,544.81,7,1167.0
+2026-08-12,Lançamento - Coleção Verão,Meta Ads,14662,104,287.97,5,1353.96
+2026-08-12,Lançamento - Coleção Verão,Google Ads,13431,254,698.85,14,3799.13
+2026-08-12,Promoção - Frete Grátis,Meta Ads,8526,139,423.21,9,1626.98
+2026-08-12,Promoção - Frete Grátis,Google Ads,1170,34,98.14,1,97.95
+2026-08-13,Black Friday - Roupas,Meta Ads,5755,102,232.53,4,698.22
+2026-08-13,Black Friday - Roupas,Google Ads,10195,209,246.39,11,2722.81
+2026-08-13,Institucional - Marca,Meta Ads,4112,68,176.03,2,371.01
+2026-08-13,Institucional - Marca,Google Ads,12205,393,1119.47,20,5132.32
+2026-08-13,Remarketing - Carrinho Abandonado,Meta Ads,9495,290,656.11,18,2931.56
+2026-08-13,Remarketing - Carrinho Abandonado,Google Ads,4016,106,162.34,2,329.47
+2026-08-13,Lançamento - Coleção Verão,Meta Ads,7904,90,175.24,6,1301.44
+2026-08-13,Lançamento - Coleção Verão,Google Ads,3778,82,195.05,1,199.84
+2026-08-13,Promoção - Frete Grátis,Meta Ads,5386,133,392.33,3,800.81
+2026-08-13,Promoção - Frete Grátis,Google Ads,4834,116,327.15,2,445.51
+2026-08-14,Black Friday - Roupas,Meta Ads,6611,70,187.29,1,240.73
+2026-08-14,Black Friday - Roupas,Google Ads,8457,58,168.05,3,613.83
+2026-08-14,Institucional - Marca,Meta Ads,11626,123,127.75,7,1256.18
+2026-08-14,Institucional - Marca,Google Ads,13179,78,117.07,0,0.0
+2026-08-14,Remarketing - Carrinho Abandonado,Meta Ads,6210,134,121.3,7,1170.52
+2026-08-14,Remarketing - Carrinho Abandonado,Google Ads,2603,28,61.27,1,197.83
+2026-08-14,Lançamento - Coleção Verão,Meta Ads,4672,139,428.28,3,707.13
+2026-08-14,Lançamento - Coleção Verão,Google Ads,12531,426,1291.62,31,10293.99
+2026-08-14,Promoção - Frete Grátis,Meta Ads,9806,286,891.37,22,3194.49
+2026-08-14,Promoção - Frete Grátis,Google Ads,12418,175,290.3,13,4169.91
+2026-08-15,Black Friday - Roupas,Meta Ads,3464,98,228.21,3,770.02
+2026-08-15,Black Friday - Roupas,Google Ads,3350,18,15.23,1,270.66
+2026-08-15,Institucional - Marca,Meta Ads,6547,58,126.52,0,0.0
+2026-08-15,Institucional - Marca,Google Ads,5304,164,391.1,8,2779.87
+2026-08-15,Remarketing - Carrinho Abandonado,Meta Ads,4978,134,351.82,2,472.57
+2026-08-15,Remarketing - Carrinho Abandonado,Google Ads,2758,85,155.01,3,741.01
+2026-08-15,Lançamento - Coleção Verão,Meta Ads,3762,42,146.5,3,766.1
+2026-08-15,Lançamento - Coleção Verão,Google Ads,5732,107,357.15,4,1345.14
+2026-08-15,Promoção - Frete Grátis,Meta Ads,3461,54,169.12,0,0.0
+2026-08-15,Promoção - Frete Grátis,Google Ads,9631,192,511.75,11,2806.46
+2026-08-16,Black Friday - Roupas,Meta Ads,3005,65,183.24,4,766.93
+2026-08-16,Black Friday - Roupas,Google Ads,1115,29,58.84,1,306.09
+2026-08-16,Institucional - Marca,Meta Ads,5249,35,92.77,0,0.0
+2026-08-16,Institucional - Marca,Google Ads,706,21,62.32,1,224.7
+2026-08-16,Remarketing - Carrinho Abandonado,Meta Ads,3755,126,400.73,6,1830.74
+2026-08-16,Remarketing - Carrinho Abandonado,Google Ads,14645,478,1135.07,24,4219.91
+2026-08-16,Lançamento - Coleção Verão,Meta Ads,11913,310,303.68,8,2617.85
+2026-08-16,Lançamento - Coleção Verão,Google Ads,2887,90,286.55,5,685.16
+2026-08-16,Promoção - Frete Grátis,Meta Ads,7712,264,698.37,9,2664.18
+2026-08-16,Promoção - Frete Grátis,Google Ads,3827,111,387.67,1,322.29
+2026-08-17,Black Friday - Roupas,Meta Ads,14562,336,830.35,25,7237.4
+2026-08-17,Black Friday - Roupas,Google Ads,6919,106,209.41,3,782.14
+2026-08-17,Institucional - Marca,Meta Ads,7453,246,253.33,9,892.61
+2026-08-17,Institucional - Marca,Google Ads,2911,29,60.39,0,0.0
+2026-08-17,Remarketing - Carrinho Abandonado,Meta Ads,13351,242,539.82,19,2371.69
+2026-08-17,Remarketing - Carrinho Abandonado,Google Ads,9275,168,260.67,11,1848.97
+2026-08-17,Lançamento - Coleção Verão,Meta Ads,9595,111,94.95,7,1250.98
+2026-08-17,Lançamento - Coleção Verão,Google Ads,8087,203,196.69,5,1492.18
+2026-08-17,Promoção - Frete Grátis,Meta Ads,11986,339,341.2,26,3984.99
+2026-08-17,Promoção - Frete Grátis,Google Ads,12405,370,1001.97,19,2320.18
+2026-08-18,Black Friday - Roupas,Meta Ads,13273,377,610.66,11,889.33
+2026-08-18,Black Friday - Roupas,Google Ads,14639,287,293.35,12,1952.94
+2026-08-18,Institucional - Marca,Meta Ads,5420,143,223.25,5,657.48
+2026-08-18,Institucional - Marca,Google Ads,5708,126,327.79,8,2502.36
+2026-08-18,Remarketing - Carrinho Abandonado,Meta Ads,9986,63,71.89,3,859.78
+2026-08-18,Remarketing - Carrinho Abandonado,Google Ads,4635,74,98.19,3,840.73
+2026-08-18,Lançamento - Coleção Verão,Meta Ads,946,20,53.1,1,111.59
+2026-08-18,Lançamento - Coleção Verão,Google Ads,4643,79,133.21,3,857.58
+2026-08-18,Promoção - Frete Grátis,Meta Ads,11569,371,1188.2,24,5225.76
+2026-08-18,Promoção - Frete Grátis,Google Ads,14400,322,683.28,17,2414.9
+2026-08-19,Black Friday - Roupas,Meta Ads,2074,68,190.56,2,231.09
+2026-08-19,Black Friday - Roupas,Google Ads,6763,71,110.22,1,129.37
+2026-08-19,Institucional - Marca,Meta Ads,3285,105,255.19,5,1154.33
+2026-08-19,Institucional - Marca,Google Ads,14641,136,246.33,8,1433.56
+2026-08-19,Remarketing - Carrinho Abandonado,Meta Ads,1198,18,49.85,0,0.0
+2026-08-19,Remarketing - Carrinho Abandonado,Google Ads,807,20,27.91,0,0.0
+2026-08-19,Lançamento - Coleção Verão,Meta Ads,4058,91,257.49,4,968.3
+2026-08-19,Lançamento - Coleção Verão,Google Ads,8612,205,579.27,4,814.99
+2026-08-19,Promoção - Frete Grátis,Meta Ads,1410,15,23.9,0,0.0
+2026-08-19,Promoção - Frete Grátis,Google Ads,7946,109,148.28,2,650.55
+2026-08-20,Black Friday - Roupas,Meta Ads,8602,44,126.97,2,492.24
+2026-08-20,Black Friday - Roupas,Google Ads,11497,205,494.39,16,4604.02
+2026-08-20,Institucional - Marca,Meta Ads,2256,59,122.98,3,857.94
+2026-08-20,Institucional - Marca,Google Ads,2147,32,69.71,1,325.86
+2026-08-20,Remarketing - Carrinho Abandonado,Meta Ads,3261,91,103.12,4,620.75
+2026-08-20,Remarketing - Carrinho Abandonado,Google Ads,2348,42,128.76,0,0.0
+2026-08-20,Lançamento - Coleção Verão,Meta Ads,13909,159,271.45,6,1732.88
+2026-08-20,Lançamento - Coleção Verão,Google Ads,13804,320,498.83,7,1277.73
+2026-08-20,Promoção - Frete Grátis,Meta Ads,3803,41,38.95,2,511.82
+2026-08-20,Promoção - Frete Grátis,Google Ads,2004,24,63.1,1,330.87
+2026-08-21,Black Friday - Roupas,Meta Ads,4985,79,131.04,4,785.6
+2026-08-21,Black Friday - Roupas,Google Ads,6331,178,255.06,6,528.77
+2026-08-21,Institucional - Marca,Meta Ads,7782,107,97.59,5,1206.34
+2026-08-21,Institucional - Marca,Google Ads,9721,246,407.72,17,5707.47
+2026-08-21,Remarketing - Carrinho Abandonado,Meta Ads,8038,162,282.87,11,1889.12
+2026-08-21,Remarketing - Carrinho Abandonado,Google Ads,14080,74,202.27,4,992.5
+2026-08-21,Lançamento - Coleção Verão,Meta Ads,2017,58,89.96,1,164.55
+2026-08-21,Lançamento - Coleção Verão,Google Ads,5391,69,119.17,4,1330.32
+2026-08-21,Promoção - Frete Grátis,Meta Ads,13755,456,922.3,10,1245.19
+2026-08-21,Promoção - Frete Grátis,Google Ads,13154,130,312.92,2,682.76
+2026-08-22,Black Friday - Roupas,Meta Ads,9228,298,390.79,3,288.68
+2026-08-22,Black Friday - Roupas,Google Ads,1596,43,121.92,2,648.35
+2026-08-22,Institucional - Marca,Meta Ads,9720,82,274.06,5,1024.23
+2026-08-22,Institucional - Marca,Google Ads,12892,321,613.18,12,3826.06
+2026-08-22,Remarketing - Carrinho Abandonado,Meta Ads,7495,207,330.52,6,653.43
+2026-08-22,Remarketing - Carrinho Abandonado,Google Ads,9961,106,137.64,3,588.27
+2026-08-22,Lançamento - Coleção Verão,Meta Ads,6052,179,226.98,7,780.99
+2026-08-22,Lançamento - Coleção Verão,Google Ads,6384,126,202.84,6,1182.83
+2026-08-22,Promoção - Frete Grátis,Meta Ads,9675,82,186.64,5,864.34
+2026-08-22,Promoção - Frete Grátis,Google Ads,10018,54,127.97,0,0.0
+2026-08-23,Black Friday - Roupas,Meta Ads,13659,337,1087.04,12,2018.81
+2026-08-23,Black Friday - Roupas,Google Ads,1508,11,16.34,0,0.0
+2026-08-23,Institucional - Marca,Meta Ads,2216,41,45.94,3,413.9
+2026-08-23,Institucional - Marca,Google Ads,1084,34,99.13,2,493.15
+2026-08-23,Remarketing - Carrinho Abandonado,Meta Ads,6398,134,144.56,2,466.71
+2026-08-23,Remarketing - Carrinho Abandonado,Google Ads,6578,143,209.47,5,1471.32
+2026-08-23,Lançamento - Coleção Verão,Meta Ads,9306,317,622.69,10,935.94
+2026-08-23,Lançamento - Coleção Verão,Google Ads,2087,12,26.56,0,0.0
+2026-08-23,Promoção - Frete Grátis,Meta Ads,2932,36,84.95,1,302.36
+2026-08-23,Promoção - Frete Grátis,Google Ads,9924,72,231.76,4,490.97
+2026-08-24,Black Friday - Roupas,Meta Ads,6404,95,129.62,1,206.01
+2026-08-24,Black Friday - Roupas,Google Ads,1089,35,81.46,0,0.0
+2026-08-24,Institucional - Marca,Meta Ads,13442,399,733.54,16,2590.2
+2026-08-24,Institucional - Marca,Google Ads,11414,62,163.3,0,0.0
+2026-08-24,Remarketing - Carrinho Abandonado,Meta Ads,6549,39,81.28,1,123.53
+2026-08-24,Remarketing - Carrinho Abandonado,Google Ads,14259,336,570.09,25,7702.82
+2026-08-24,Lançamento - Coleção Verão,Meta Ads,11642,204,227.29,10,3333.9
+2026-08-24,Lançamento - Coleção Verão,Google Ads,1503,38,96.91,0,0.0
+2026-08-24,Promoção - Frete Grátis,Meta Ads,6765,203,608.92,10,1808.34
+2026-08-24,Promoção - Frete Grátis,Google Ads,1573,12,21.1,0,0.0
+2026-08-25,Black Friday - Roupas,Meta Ads,11137,148,205.1,4,920.83
+2026-08-25,Black Friday - Roupas,Google Ads,14531,433,395.4,17,2132.05
+2026-08-25,Institucional - Marca,Meta Ads,2784,73,77.27,2,683.08
+2026-08-25,Institucional - Marca,Google Ads,10898,367,512.04,26,8638.81
+2026-08-25,Remarketing - Carrinho Abandonado,Meta Ads,2918,47,77.77,1,104.67
+2026-08-25,Remarketing - Carrinho Abandonado,Google Ads,11993,251,659.9,10,2775.04
+2026-08-25,Lançamento - Coleção Verão,Meta Ads,4766,151,389.09,1,334.66
+2026-08-25,Lançamento - Coleção Verão,Google Ads,3041,25,71.85,1,197.12
+2026-08-25,Promoção - Frete Grátis,Meta Ads,12546,244,533.89,7,1643.05
+2026-08-25,Promoção - Frete Grátis,Google Ads,3171,99,228.73,6,1634.81
+2026-08-26,Black Friday - Roupas,Meta Ads,7763,263,491.0,16,2773.88
+2026-08-26,Black Friday - Roupas,Google Ads,1225,36,71.62,0,0.0
+2026-08-26,Institucional - Marca,Meta Ads,3306,42,145.9,0,0.0
+2026-08-26,Institucional - Marca,Google Ads,9290,174,341.68,5,667.43
+2026-08-26,Remarketing - Carrinho Abandonado,Meta Ads,13501,319,446.99,10,2275.44
+2026-08-26,Remarketing - Carrinho Abandonado,Google Ads,12817,362,417.15,17,3389.94
+2026-08-26,Lançamento - Coleção Verão,Meta Ads,2109,67,68.82,2,214.13
+2026-08-26,Lançamento - Coleção Verão,Google Ads,10652,70,86.17,2,201.48
+2026-08-26,Promoção - Frete Grátis,Meta Ads,6078,34,103.85,2,233.15
+2026-08-26,Promoção - Frete Grátis,Google Ads,14259,191,296.02,2,660.53
+2026-08-27,Black Friday - Roupas,Meta Ads,11758,72,169.18,2,175.47
+2026-08-27,Black Friday - Roupas,Google Ads,2381,79,229.92,2,293.85
+2026-08-27,Institucional - Marca,Meta Ads,2845,64,119.92,5,1134.67
+2026-08-27,Institucional - Marca,Google Ads,5422,114,265.44,7,809.41
+2026-08-27,Remarketing - Carrinho Abandonado,Meta Ads,14698,315,295.01,12,3656.86
+2026-08-27,Remarketing - Carrinho Abandonado,Google Ads,516,6,9.94,0,0.0
+2026-08-27,Lançamento - Coleção Verão,Meta Ads,589,4,8.06,0,0.0
+2026-08-27,Lançamento - Coleção Verão,Google Ads,9617,128,217.14,7,2205.5
+2026-08-27,Promoção - Frete Grátis,Meta Ads,1904,34,57.9,1,223.08
+2026-08-27,Promoção - Frete Grátis,Google Ads,8454,97,132.23,2,651.83
+2026-08-28,Black Friday - Roupas,Meta Ads,8976,85,129.55,2,380.57
+2026-08-28,Black Friday - Roupas,Google Ads,9475,96,291.25,4,684.54
+2026-08-28,Institucional - Marca,Meta Ads,10773,116,293.72,3,957.73
+2026-08-28,Institucional - Marca,Google Ads,12711,182,205.61,3,764.97
+2026-08-28,Remarketing - Carrinho Abandonado,Meta Ads,6882,197,232.66,9,976.59
+2026-08-28,Remarketing - Carrinho Abandonado,Google Ads,12280,118,329.51,4,1044.97
+2026-08-28,Lançamento - Coleção Verão,Meta Ads,11728,406,357.71,16,3459.95
+2026-08-28,Lançamento - Coleção Verão,Google Ads,5175,177,520.97,9,2124.07
+2026-08-28,Promoção - Frete Grátis,Meta Ads,5808,140,484.4,8,1578.22
+2026-08-28,Promoção - Frete Grátis,Google Ads,1661,29,49.06,1,309.66
