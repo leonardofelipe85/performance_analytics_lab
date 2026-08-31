@@ -80,6 +80,8 @@ print(funil_campanha)
 
 funil_campanha = funil_campanha.reset_index()
 
+funil_campanha = funil_campanha.sort_values('taxa_conversao', ascending=False)
+
 fig = px.bar(funil_campanha, x='Campanha', y='taxa_conversao')
 
 #fig.show()
