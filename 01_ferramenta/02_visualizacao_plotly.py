@@ -1,4 +1,6 @@
 import pandas as pd
+import plotly.express as px 
+import plotly.io as pio
 
 df = pd.read_csv("dataset/relatorio_google_ads.csv", skiprows=4)
 df = df[df['Dia'] != 'Total']
@@ -70,5 +72,16 @@ df['Taxa de conv.'] = pd.to_numeric(df['Taxa de conv.'], errors='coerce')
 print(df['Taxa de conv.'].dtype)
 print(df['Taxa de conv.'].head(10))
 
+funil_campanha = df.groupby('Campanha')[['Cliques', 'Conversões']].sum()
+print(funil_campanha)
 
+funil_campanha['taxa_conversao'] = funil_campanha['Conversões'] / funil_campanha['Cliques'] * 100
+print(funil_campanha)
 
+funil_campanha = funil_campanha.reset_index()
+
+fig = px.bar(funil_campanha, x='Campanha', y='taxa_conversao')
+
+#fig.show()
+fig.write_html("grafico_taxa_conversao.html")
+#pio.renderers.default = "browser"
